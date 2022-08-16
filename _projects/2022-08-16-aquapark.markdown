@@ -1,0 +1,10 @@
+---
+layout: project
+title:  Aquapark
+url: "aquapark"
+date:   2022-04-13 00:20:04 +0300
+categories: jekyll update
+projectlink: https://www.amazon.com/HC-Free-Games-Aquapark-slide/dp/B09YMSS8KV/ref=sr_1_3
+demolink: <iframe class="responsive-iframe" src="https://www.youtube.com/embed/-grVDh2xIpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+After release this game was received several small updates so i'm not responsible for its current state.
