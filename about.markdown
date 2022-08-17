@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Dmitry Mihailenko, 21 years old Unity C# developer. 
+Dmitry Mihailenko, Unity C# developer. 
 
 Experience - 1.5 year
 
